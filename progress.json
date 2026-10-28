@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-28T19:49:52.308Z",
+  "items": {
+    "problem:275": {
+      "kind": "problem",
+      "id": "275",
+      "title": "Implement Stratified Train-Test Split",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/275",
+      "path": "problems/0275-implement-stratified-train-test-split",
+      "first_solved_at": "2026-10-28T19:49:47.245Z",
+      "last_pushed_at": "2026-10-28T19:49:47.245Z",
+      "language": "python",
+      "lines": 59
+    }
+  }
+}
