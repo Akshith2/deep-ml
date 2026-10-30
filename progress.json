@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T17:37:36.177Z",
+  "generated_at": "2026-10-30T18:14:26.034Z",
   "items": {
     "problem:275": {
       "kind": "problem",
@@ -50,6 +50,17 @@
       "last_pushed_at": "2026-10-30T17:37:35.134Z",
       "language": "python",
       "lines": 16
+    },
+    "math:118": {
+      "kind": "math",
+      "id": "118",
+      "title": "Interpolation and Double Descent",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/118",
+      "path": "math/0118-interpolation-and-double-descent",
+      "first_solved_at": "2026-10-30T18:14:14.827Z",
+      "last_pushed_at": "2026-10-30T18:14:14.827Z"
     }
   }
 }
