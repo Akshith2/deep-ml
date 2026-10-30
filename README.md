@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 3 problems · 0 labs · 2 math
+**6** solved · 3 problems · 1 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-10-30 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-10-29 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-10-28 | [solution](problems/0275-implement-stratified-train-test-split) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Split the Data Honestly and Beat a Baseline](https://www.deep-ml.com/labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1) | easy | 2026-10-30 | [solution](labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1-split-the-data-honestly-and-beat-a-baseline) |
 
 ## Math
 
