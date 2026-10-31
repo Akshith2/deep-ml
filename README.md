@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 3 problems · 1 labs · 2 math
+**7** solved · 3 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-30 | [solution](math/0031-regularization-and-generalization) |
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-10-30 | [solution](math/0118-interpolation-and-double-descent) |
+| [Matrix Completion and Missing Values](https://www.deep-ml.com/math-problems/122) | hard | 2026-10-31 | [solution](math/0122-matrix-completion-and-missing-values) |
 
 ---
 

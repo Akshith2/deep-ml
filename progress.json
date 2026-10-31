@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T19:14:03.444Z",
+  "generated_at": "2026-10-31T03:08:16.916Z",
   "items": {
     "problem:275": {
       "kind": "problem",
@@ -74,6 +74,17 @@
       "last_pushed_at": "2026-10-30T19:13:57.173Z",
       "language": "python",
       "lines": 28
+    },
+    "math:122": {
+      "kind": "math",
+      "id": "122",
+      "title": "Matrix Completion and Missing Values",
+      "difficulty": "hard",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/122",
+      "path": "math/0122-matrix-completion-and-missing-values",
+      "first_solved_at": "2026-10-31T03:08:15.866Z",
+      "last_pushed_at": "2026-10-31T03:08:15.866Z"
     }
   }
 }
