@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:00:33.606Z",
+  "generated_at": "2026-11-02T19:51:59.752Z",
   "items": {
     "problem:275": {
       "kind": "problem",
@@ -111,6 +111,17 @@
       "last_pushed_at": "2026-10-31T20:00:32.570Z",
       "language": "python",
       "lines": 46
+    },
+    "math:129": {
+      "kind": "math",
+      "id": "129",
+      "title": "Perceptron Convergence Bound",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/129",
+      "path": "math/0129-perceptron-convergence-bound",
+      "first_solved_at": "2026-11-02T19:51:44.386Z",
+      "last_pushed_at": "2026-11-02T19:51:44.386Z"
     }
   }
 }
